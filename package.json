@@ -1,5 +1,6 @@
 {
   "name": "ashlowe-portfolio",
+  "private": true,
   "version": "1.0.0",
   "description": "Portfolio",
   "main": "vite.config.js",
