@@ -5,6 +5,9 @@ import { Link } from 'react-router-dom';
 export default function About() {
     return (
       <div className="container pt-4">
+       
+        <img src="src/assets/Profile.png" width="200px" class="profile"></img>
+      
         <p>
             I started out with a "McJob" in 2013, working every possible shift while going to school online.
         </p>
