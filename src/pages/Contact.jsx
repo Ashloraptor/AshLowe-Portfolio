@@ -16,9 +16,8 @@ export default function Contact() {
                         <h2 className="fw-bold mb-1">Ash Lowe</h2>
                         <h5 className="mb-1">Ashloraptor</h5>
                         <a href="mailto:ashloraptor@gmail.com">ashloraptor@gmail.com</a>
-                        <a href={`tel:(210)-797-4428`} className="ms-2 me-auto">
-                            (210)-797-4428
-                        </a>
+                        <br></br>
+                        
                     </div>
                 </div>
             

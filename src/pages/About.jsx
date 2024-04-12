@@ -1,3 +1,6 @@
+import { useState, useEffect } from 'react';
+// Bringing in the required component from 'react-router-dom' for linking between pages
+import { Link } from 'react-router-dom';
 // This is a static page mocking an "About Us" section for our fake user data
 export default function About() {
     return (
