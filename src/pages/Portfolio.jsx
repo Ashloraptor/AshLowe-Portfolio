@@ -1,4 +1,4 @@
-export default function AboutPage() {
+export default function Portfolio() {
     return (
       <div className="container pt-4">
           <section className="features-icons bg-light text-center m-4">
