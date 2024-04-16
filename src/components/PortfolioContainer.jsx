@@ -27,13 +27,19 @@ export default function PortfolioContainer() {
 
   return (
     <div>
-        <div classname="name">
+        <div className="name">
         <h1>Ashloraptor</h1>
         </div>
       {/* We are passing the currentPage from state and the function to update it */}
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Here we are calling the renderPage method which will return a component  */}
       <main className="mx-3">{renderPage()}</main>
+      <footer  id="footer">
+      <address>
+          <h3 id="Contact">Contacts</h3>
+          <a href="https://github.com/Ashloraptor">GitHub</a>
+      </address>
+  </footer>
     </div>
   );
 }
