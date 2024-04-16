@@ -1,6 +1,11 @@
 export default function Portfolio() {
     return (
         <div>
+            <section className="features-icons bg-light text-center m-4">
+                <br/>
+                <a href="https://docs.google.com/document/d/1a181NQ-UiC9UWRsBRwkmRrPmDBBG20JQEhUWD0EFFt4/edit?usp=sharing" download>Click here to download resume</a>
+                <br/>
+            </section>
             <div>
                 <h5>Front-end Proficiencies:</h5>
                 <ul>

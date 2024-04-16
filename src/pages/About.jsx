@@ -6,7 +6,7 @@ export default function About() {
     return (
       <div className="container pt-4">
        
-        <img src="src/assets/Profile.png" width="200px" class="profile"></img>
+        <img src="src/assets/Profile.png" width="200px" className="features-icons-item mx-auto profile"></img>
       
         <p>
             I started out with a "McJob" in 2013, working every possible shift while going to school online.
