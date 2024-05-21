@@ -6,7 +6,8 @@ export default function About() {
     return (
       <div className="container pt-4">
        
-        <img src="src/assets/Profile.png" width="200px" className="features-icons-item mx-auto profile"></img>
+        <img src="https://images.squarespace-cdn.com/content/v1/63dbec3d38523022023d7de5/00f3b588-a366-4d32-88e0-e05aa69238ed/Ashley.jpg?format=500w" width="200px" className="features-icons-item mx-auto profile"></img>
+        {/* <img src="src/assets/Profile.png" width="200px" className="features-icons-item mx-auto profile"></img> */}
       
         <p>
             I started out with a "McJob" in 2013, working every possible shift while going to school online.
