@@ -18,9 +18,9 @@ export default function Nav({currentPage, handlePageChange}) {
                     Portfolio
                 </Link>,              
 
-                <Link key={3} className="nav-link text-light" to="/contact">
-                    Contact
-                </Link>,
+                // <Link key={3} className="nav-link text-light" to="/contact">
+                //     Contact
+                // </Link>,
                 
                 <Link key={4} className="nav-link text-light" to="/resume">
                     Resume
