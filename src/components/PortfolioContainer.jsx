@@ -36,8 +36,13 @@ export default function PortfolioContainer() {
       <main className="mx-3">{renderPage()}</main>
       <footer  id="footer">
       <address>
-          <h3 id="Contact">Contacts</h3>
+          <h3 id="Contact">Contact Me</h3>
           <a href="https://github.com/Ashloraptor">GitHub</a>
+          <br></br>
+          <a href="https://www.linkedin.com/in/ashley-lowe-5369a9310/">LinkedIn</a>
+          <br></br>
+          <a href="mailto:ashloraptor@gmail.com?subject=Employment Opportunity">Email</a>
+          <br></br>
       </address>
   </footer>
     </div>
