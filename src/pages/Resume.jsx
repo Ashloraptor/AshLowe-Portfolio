@@ -3,7 +3,7 @@ export default function Portfolio() {
         <div>
             <section className="features-icons bg-light text-center m-4">
                 <br/>
-                <a href="https://docs.google.com/document/d/1a181NQ-UiC9UWRsBRwkmRrPmDBBG20JQEhUWD0EFFt4/edit?usp=sharing" download>Click here to download resume</a>
+                <a href="https://docs.google.com/document/d/1a181NQ-UiC9UWRsBRwkmRrPmDBBG20JQEhUWD0EFFt4/edit?usp=sharing" download>Click here to access resume</a>
                 <br/>
             </section>
             <div>
