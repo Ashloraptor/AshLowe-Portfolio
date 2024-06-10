@@ -10,21 +10,12 @@ export default function About() {
         {/* <img src="src/assets/Profile.png" width="200px" className="features-icons-item mx-auto profile"></img> */}
       
         <p>
-            I started out with a "McJob" in 2013, working every possible shift while going to school online.
+        After receiving my high school diploma in 2012, I attended San Antonio College and worked as a cashier in the fast food industry, as I pondered my choice in careers. In 2014, a door opened for me in technical support for AT&T, through a 3rd party contractor. I continued to work there until 2016, when I received a job offer from JPM Chase.
         </p>
         <p>
-            A door opened for me, and I was able to work under Pace/Arris from 2014 to 2016 as customer support/tech
-            support until
-            AT&T ended their contract prematurely, and all American call centers under vendors were closed out. At that
-            point I went
-            to JPM Chase where I worked in Fraud Protection and then Tech Support for a total of 7 years.
-        </p>
+        I worked for JPM Chase in Fraud Protection and Tech Support for 7 years, until my job was rendered obsolete by AI. It was during my tenure at Chase that I discovered my passion for coding. As my job position no longer existed, I decided to take the opportunity to return to school and learn the additional skills I needed to be able to turn that passion into a career.</p>
         <p>
-            While the use of AI had rendered my position redundant, I took the opportunity to return to school to
-            reskill for my true
-            passion: coding. Aiming to be flexible in the world of coding, be it for video games or web design or
-            software support, I
-            look forward to the many opportunities ahead of me.
+        Having completed my coding education (passing with 98.6%), I am now a full-stack certified, web developer, with over 7 years of experience in the tech support sector. Now, I’m looking for the right company with which to apply my skills, and grow together in the tech industry.
         </p>
       </div>
     );
