@@ -47,6 +47,8 @@ function Contact() {
             <div className="card">
                 <div className="card-header">
                     <h2 className="fw-bold mb-1">Contact Me</h2>
+                    <br></br>
+                    <h3 className="fw-bold mb-1">This page is for demonstration only. Messages sent via this form will not be received.</h3>
                     
                     <br></br>
                     <form onSubmit={handleFormSubmit}>
